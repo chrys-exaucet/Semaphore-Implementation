@@ -1,4 +1,4 @@
-## Semaphore-Implementation
+## Semaphore
 A C-based implementation of the OS  Semaphore technique: concurrent processes, shared-ressources.
 
 ###   Run
