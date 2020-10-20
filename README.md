@@ -1,15 +1,15 @@
-# Semaphore-Implementation
+## Semaphore-Implementation
 A C-based implementation of the OS  Semaphore technique: concurrent processes, shared-ressources.
 
 
-## Prequisites
+###  Prequisites
 - None
 
 
-## Demo
+###   Demo
 You can find complete demo [here](assets/).
 
-## Run
+###   Run
 - Create a project in your favourite IDE
 - Include src files
 - build and run your app
