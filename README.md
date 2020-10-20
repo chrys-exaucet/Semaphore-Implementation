@@ -2,8 +2,8 @@
 A C-based implementation of the OS  Semaphore technique: concurrent processes, shared-ressources.
 
 
-###  Prequisites
-- None
+
+
 
 
 ###   Demo
