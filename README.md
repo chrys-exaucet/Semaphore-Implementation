@@ -2,8 +2,8 @@
 A C-based implementation of the OS  Semaphore technique: concurrent processes, shared-ressources.
 
 ###   Run
-- Create a project in your favourite IDE
-- Include src files
+- create a project in your favourite IDE
+- include src files
 - build and run your app
 
 ###   Demo
